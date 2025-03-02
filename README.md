@@ -63,29 +63,32 @@ Aquí están las extensiones que actualmente tienes en tu **VS Code**:
 | Nombre | Descripción |
 |--------|------------|
 | Debugger for Java | Depurador ligero para Java en VS Code |
+| Error Lens | Resalta errores y advertencias en el código en tiempo real |
 | Extension Pack for Java | Paquete de extensiones para desarrollo en Java |
+| Git Graph | Visualiza un gráfico de Git y realiza acciones sobre el repositorio |
 | GitHub Copilot | Asistente de código basado en IA |
+| GitHub Pull Requests | Manejo de Pull Requests en GitHub desde VS Code |
 | GitLens | Mejora la integración con Git en VS Code |
 | IntelliCode | Sugerencias de código con IA |
+| IntelliCode API Usage Examples | Muestra ejemplos de uso de API en GitHub |
 | Language Support for Java | Soporte para sintaxis, linting y Maven |
+| Lombok Annotations Support | Mejora el soporte para Lombok en VS Code |
+| markdownlint | Linter para archivos Markdown |
+| Material Icon Theme | Pack de iconos para VS Code |
 | Maven for Java | Manejo de proyectos Maven en VS Code |
+| Path Intellisense | Autocompletado de rutas de archivos en VS Code |
+| Peacock | Personaliza el color del espacio de trabajo |
 | Prettier - Code formatter | Formateador de código automático |
 | Project Manager for Java | Organización y gestión de proyectos Java |
+| Spanish Language Pack | Traducción de la interfaz de VS Code al español |
 | Spring Boot Dashboard | Panel de control para Spring Boot |
 | Spring Boot Extension Pack | Extensiones útiles para Spring Boot |
 | Spring Boot Tools | Validación y asistencias para Spring Boot |
+| Spring Code Generator | Generador de código para Spring Boot |
 | Spring Initializr Java Support | Generación rápida de proyectos Spring |
 | Test Runner for Java | Pruebas con JUnit y TestNG |
-
-### 🔹 **Extensiones Adicionales Recomendadas**
-Podrías instalar estas para mejorar tu flujo de trabajo:
-
-| Nombre | Descripción |
-|--------|------------|
-| REST Client | Permite probar APIs directamente desde VS Code (Alternativa ligera a Postman) |
-| Error Lens | Resalta errores y advertencias en el código en tiempo real |
-| TODO Highlight | Resalta comentarios `TODO` en el código |
-| Lombok Annotations Support | Mejora el soporte para Lombok en VS Code |
+| XML | Soporte para archivos XML en VS Code |
+| XML Tools | Formateo y validación de XML |
 
 ---
 
